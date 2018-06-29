@@ -1,0 +1,58 @@
+﻿Build started 6.4.2014 20:09:31.
+     1>Project "E:\RAMAZAN\Üniversite\II.Dönem\Algoritma II\Ödevler\odev-2(yarisma similasyonu)\YarismaProgramiSimilasyonu\YarismaProgramiSimilasyonu\YarismaProgramiSimilasyonu.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\YarismaProgramiSimilasyonu.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt proje.c
+         proje.c
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(79): warning C4047: 'function' : 'int' differs in levels of indirection from 'int [3]'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(79): warning C4024: 'kontrol' : different types for formal and actual parameter 1
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(115): warning C4047: 'function' : 'int' differs in levels of indirection from 'int [3]'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(115): warning C4024: 'kontrol' : different types for formal and actual parameter 1
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(126): warning C4047: 'function' : 'int' differs in levels of indirection from 'int [10]'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(126): warning C4024: 'siralama' : different types for formal and actual parameter 1
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(131): warning C4047: 'function' : 'int' differs in levels of indirection from 'int [10]'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(131): warning C4024: 'siralama' : different types for formal and actual parameter 1
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(148): warning C4129: ' ' : unrecognized character escape sequence
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(150): warning C4013: 'getch' undefined; assuming extern returning int
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(168): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(178): warning C4047: 'function' : 'int' differs in levels of indirection from 'int [10]'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(178): warning C4024: 'siralama' : different types for formal and actual parameter 1
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(183): warning C4047: 'function' : 'int' differs in levels of indirection from 'int [10]'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(183): warning C4024: 'siralama' : different types for formal and actual parameter 1
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(188): warning C4047: 'function' : 'int' differs in levels of indirection from 'int [10]'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(188): warning C4024: 'siralama' : different types for formal and actual parameter 1
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(215): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(225): warning C4028: formal parameter 1 different from declaration
+     1>e:\ramazan\üniversite\ii.dönem\algoritma ii\ödevler\odev-2(yarisma similasyonu)\yarismaprogramisimilasyonu\yarismaprogramisimilasyonu\proje.c(245): warning C4028: formal parameter 1 different from declaration
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\YarismaProgramiSimilasyonu.exe.embed.manifest.res" Debug\YarismaProgramiSimilasyonu_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\RAMAZAN\Üniversite\II.Dönem\Algoritma II\Ödevler\odev-2(yarisma similasyonu)\YarismaProgramiSimilasyonu\Debug\YarismaProgramiSimilasyonu.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\YarismaProgramiSimilasyonu.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\RAMAZAN\Üniversite\II.Dönem\Algoritma II\Ödevler\odev-2(yarisma similasyonu)\YarismaProgramiSimilasyonu\Debug\YarismaProgramiSimilasyonu.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\RAMAZAN\Üniversite\II.Dönem\Algoritma II\Ödevler\odev-2(yarisma similasyonu)\YarismaProgramiSimilasyonu\Debug\YarismaProgramiSimilasyonu.lib" /MACHINE:X86 Debug\YarismaProgramiSimilasyonu.exe.embed.manifest.res
+         Debug\proje.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\YarismaProgramiSimilasyonu.exe.embed.manifest" /manifest Debug\YarismaProgramiSimilasyonu.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         YarismaProgramiSimilasyonu.vcxproj -> E:\RAMAZAN\Üniversite\II.Dönem\Algoritma II\Ödevler\odev-2(yarisma similasyonu)\YarismaProgramiSimilasyonu\Debug\YarismaProgramiSimilasyonu.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\YarismaProgramiSimilasyonu.unsuccessfulbuild".
+         Touching "Debug\YarismaProgramiSimilasyonu.lastbuildstate".
+     1>Done Building Project "E:\RAMAZAN\Üniversite\II.Dönem\Algoritma II\Ödevler\odev-2(yarisma similasyonu)\YarismaProgramiSimilasyonu\YarismaProgramiSimilasyonu\YarismaProgramiSimilasyonu.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.54

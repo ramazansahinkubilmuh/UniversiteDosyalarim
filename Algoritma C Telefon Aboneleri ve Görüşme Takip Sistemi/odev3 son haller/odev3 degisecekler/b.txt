@@ -1,0 +1,271 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+ 
+ 
+void aboneEkle();
+void adresGuncelle();
+void gorusme();
+ 
+int main()
+{
+    int secim;
+    char emin='h';
+    do
+	{
+		    do
+			{
+				printf("1) Yeni bir abonenin eklenmesi\n"
+				"2) Bir abonenin adres bilgisinin guncellenmesi\n"
+				"3) Gorusme dosyasinin sonuna yapilan gorusmelere iliskin kayitlarin eklenmesi\n"
+				"4) Cikis\n");
+ 
+				printf("Secim:\n");
+				scanf("%d",&secim);
+			}while(secim<1 || secim>4);
+			switch (secim)
+			{
+				case 1:
+				{
+					aboneEkle();
+					break;
+				}
+				case 2:
+				{
+					adresGuncelle();
+					break;
+				}
+				case 3:
+				{
+					gorusme();
+					break;
+				}
+				case 4:
+				{
+					printf("Cikmak istediginize emin misiniz?\n");
+					fflush(stdin);
+					scanf("%c",&emin);
+					break;
+				}
+			}
+    }while(emin=='h' || emin=='H');
+    return 0;
+}
+ 
+void aboneEkle()
+{
+ 
+    FILE *fptr;
+    FILE *fptr2;
+    char telNo[8];
+    char adSoyad[26];
+    char adres[31];
+    int abonetip;
+    int kontor;
+    int bulundu=0,yazildi=0;
+    char abone[70],bos;
+ 
+    if((fptr = fopen("abone.txt","r")) == NULL)
+        printf("Dosya acilamadi!\n");
+    else
+    {
+        printf("Telefon no yu giriniz:\n");
+        scanf("%s",telNo);
+        fgets(abone,69,fptr);
+        while(!feof(fptr))
+        {
+ 
+            if(strncmp(telNo, abone, strlen(telNo))==0)
+            {
+               printf("Zaten bu telefon numarasina ait bir kullanici var!\n");
+               bulundu=1; //once abone varmi diye kontrol edilir eger boyle bir abone varsa abone ekleme islemi yapilmayacaktir!
+               break;
+            }
+            fgets(abone,69,fptr);
+ 
+        }
+        rewind(fptr);
+ 
+        if(bulundu==0)
+		{
+            printf("Abonenin adini ve soyadini giriniz:\n");
+            scanf("%c",&bos);
+            gets(adSoyad);
+            printf("Abonenin adresini giriniz:\n");
+            gets(adres);
+            printf("Abone tipini giriniz:\n");
+            scanf("%d",&abonetip);
+            printf("Abonenin kontor miktarini giriniz:\n");
+            scanf("%d",&kontor);
+ 
+            fptr2 = fopen("gecici.txt","w");
+            fgets(abone,69,fptr);
+ 
+            while(!feof(fptr)) 
+			{
+                if(strncmp(telNo, abone, strlen(telNo)+1)>0) //eger girilen tel buyukse eski kaydi yazar
+                {
+                    fputs(abone,fptr2);
+				}
+                else
+				{
+                    fprintf(fptr2,"%s%-25s%-30s%-2d%d\n",telNo,adSoyad,adres,abonetip,kontor);
+                    yazildi=1;
+                    break;
+				}
+                fgets(abone,69,fptr);
+            }
+ 
+            if(yazildi==0)
+			{ //eger hicbir no dan daha buyuk degilse yeni no dosyanin sonuna yazar
+                fprintf(fptr2,"%s%-25s%-30s%-2d%d\n",telNo,adSoyad,adres,abonetip,kontor);
+            }
+ 
+            while(!feof(fptr))
+			{
+                fputs(abone,fptr2);
+                fgets(abone,69,fptr);
+			}
+            fclose(fptr2);
+            remove("abone.txt");
+            rename("gecici.txt","abone.txt");		
+		}
+	}
+
+}
+ 
+void adresGuncelle(){
+ 
+    FILE *fptr;
+    FILE *fptr2;
+    int bulundu=0,bos;
+    char abone[70];
+    char yeniAdres[26],telNo[9];
+ 
+    if((fptr = fopen("abone.txt","r")) == NULL)
+        printf("Dosya acilamadi!\n");
+    else
+    {
+        printf("Telefon numarasini giriniz:\n"),
+        scanf("%s",telNo);
+        while(!feof(fptr))
+        {
+            fgets(abone,69,fptr);
+            if(strncmp(telNo, abone, strlen(telNo))==0)//once abone varmi diye kontrol edilir eger boyle bir abone varsa adres guncelleme islemi yapilacaktir
+            {
+              bulundu=1;
+              break;
+            }
+            else if(strncmp(telNo, abone, strlen(telNo))<0) break;
+        }
+        if(bulundu==0)
+            printf("Bu telefon numarasina ait kayit bulunamadi!\n");
+        else{
+            rewind(fptr);
+            fptr2 = fopen("gecici.txt","w");
+ 
+            printf("Yeni adresi giriniz:\n");
+            scanf("%d",&bos);
+            gets(yeniAdres);
+            fgets(abone,69,fptr);
+            while(!feof(fptr))
+            {
+                if(strncmp(telNo, abone, strlen(telNo))==0)
+                {
+                    fwrite(abone,32,1,fptr2); //once dosyaya adres kismina kadar dosyaya yazdirir
+                    fprintf(fptr2,"%-30s",yeniAdres); //sonra dosyaya yeni adresi yazdirir
+                    fputs(abone+62,fptr2); // daha sonra da geri kalan kisim yazilir
+                }
+                else
+                    fputs(abone,fptr2);
+ 
+                fgets(abone,69,fptr);
+            }
+ 
+        remove("abone.txt");
+        rename("gecici.txt","abone.txt");
+        fclose(fptr2);
+        }
+    fclose(fptr);
+    }
+ 
+}
+ 
+void gorusme(){
+ 
+    FILE *fptr;
+    FILE *fptr2;
+    char arayanNo[8];
+    char arananNo[11];
+    int tarih;
+    int baslangicS;
+    int baslangicDk;
+    int sure;
+    int bulundu=0;
+    char secim;
+    char kayit[71];
+    char tel[8];
+ 
+    do{
+    if((fptr = fopen("abone.txt","r")) == NULL)
+        printf("Dosya acilamadi!\n");
+    else
+    {
+        printf("Telefon numarasini giriniz:\n"),
+        scanf("%s",arayanNo);
+        fgets(tel,8,fptr);
+ 
+        while(!feof(fptr))
+        {
+            if(strncmp(tel,arayanNo, strlen(arayanNo))==0)
+            {
+              bulundu=1;
+              break;
+            }
+            //else if(strncmp(tel, arayanNo, strlen(arayanNo))<0) break;
+ 
+            fgets(tel,8,fptr);
+        }
+        fclose(fptr);
+        if(bulundu==0)
+            printf("Bu telefon numarasina ait kayit bulunamadi!\n");
+        else{
+            if((fptr = fopen("gorusme.txt","r")) == NULL)
+                printf("Dosya acilamadi!\n");
+            else{
+                printf("Aranan no yu giriniz:\n");
+                scanf("%s",arananNo);
+                printf("Gorusme gununu giriniz:\n");
+                scanf("%d",&tarih);
+                printf("Baslangic saatini giriniz:\n");
+                scanf("%d",&baslangicS);
+                printf("Baslangic dakikasini giriniz:\n");
+                scanf("%d",&baslangicDk);
+                printf("Konusma suresini giriniz:\n");
+                scanf("%d",&sure);
+ 
+                fptr2 = fopen("gecici.txt","w");
+                fgets(kayit,69,fptr);
+                printf("%s",kayit);
+ 
+                while(!feof(fptr))
+                {
+                    fputs(kayit,fptr2);
+                    fgets(kayit,69,fptr);
+                }
+                fprintf(fptr2,"%s%s %d %d %d %d",arayanNo,arananNo,tarih,baslangicS,baslangicDk,sure);
+                remove("gorusme.txt");
+                rename("gecici.txt","gorusme.txt");
+                fclose(fptr2);
+            }
+            fclose(fptr);
+        }
+ 
+    }
+    printf("Islemi tekrar yapmak istermisiniz?(E/H)\n");
+    fflush(stdin);
+    scanf("%c",&secim);
+ 
+    }while(secim=='E' || secim=='e');
+
+}

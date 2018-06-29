@@ -1,0 +1,34 @@
+          Technisoft Group presents:
+
+          DB SEARCH 1.1b
+          -----------------------
+          written by Alexander Burlakov aka HUNTER - 1998
+                     E-mail: Hunter@hptmts.tvcom.ru
+                     URL: http://www.chat.ru/~hunterml/
+
+          FREEWARE beta version full source included !!!
+
+          Check my new and updated components on
+                          http://www.chat.ru/~hunterml/
+
+The unit DBSEARCH.PAS includes:
+
+        * TSearchEdit     - Simple TEdit like component that scan
+                            DataSource for  user specified record.
+                            As in Win help/index.
+
+Before using this component you need to install it. To install copy
+the enclosed files into a common VCL directory. In Delphi use the
+Install option on the Components menu to install TSearchEdit
+into your component library.
+
+To use those component drop onto a form at design time.
+
+If you like my components or modify it or found some bugs can you send
+me some email (Hunter@hptmts.tvcom.ru). I'd just like to hear from
+others around the world and I will try to reply to any email that I
+receive.
+
+Thanxxx.
+
+-= HUNTER =-

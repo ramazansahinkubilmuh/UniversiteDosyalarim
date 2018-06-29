@@ -1,0 +1,24 @@
+unit Unit7;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs;
+
+type
+  TStokCikisRapor = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  StokCikisRapor: TStokCikisRapor;
+
+implementation
+
+{$R *.dfm}
+
+end.
