@@ -1,0 +1,9 @@
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\bin\Debug\PerseptronEND.exe.config
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\bin\Debug\PerseptronEND.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\bin\Debug\PerseptronEND.pdb
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\obj\Debug\PerseptronEND.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\obj\Debug\PerseptronEND.Form1.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\obj\Debug\PerseptronEND.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\obj\Debug\PerseptronEND.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\obj\Debug\PerseptronEND.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\PerseptronEND\PerseptronEND\obj\Debug\PerseptronEND.pdb

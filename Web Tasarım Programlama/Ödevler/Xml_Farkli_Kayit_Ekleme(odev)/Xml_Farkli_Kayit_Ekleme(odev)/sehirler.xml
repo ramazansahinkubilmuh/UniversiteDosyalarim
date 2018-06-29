@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<sehirler>
+  <sehir plaka="55" ad="Samsun" />
+  <sehir plaka="23" ad="Elazığ" />
+  <sehir plaka="10" ad="Diyarbakır" />
+  <sehir plaka="44" ad="Malatya" />
+  <sehir plaka="58" ad="Sivas" />
+  <sehir plaka="34" ad="İstanbul" />
+  <sehir plaka="2" ad="Deneme" />
+</sehirler>

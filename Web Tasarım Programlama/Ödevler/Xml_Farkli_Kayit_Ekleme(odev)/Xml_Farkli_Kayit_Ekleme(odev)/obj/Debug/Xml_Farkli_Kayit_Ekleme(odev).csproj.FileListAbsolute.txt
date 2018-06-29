@@ -1,0 +1,12 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\obj\Debug\Xml_Farkli_Kayit_Ekleme(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\bin\Xml_Farkli_Kayit_Ekleme(odev).dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\bin\Xml_Farkli_Kayit_Ekleme(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\bin\Xml_Farkli_Kayit_Ekleme(odev).pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\obj\Debug\Xml_Farkli_Kayit_Ekleme(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\obj\Debug\Xml_Farkli_Kayit_Ekleme(odev).pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\bin\Xml_Farkli_Kayit_Ekleme(odev).dll.config
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\bin\Xml_Farkli_Kayit_Ekleme(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\bin\Xml_Farkli_Kayit_Ekleme(odev).pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\obj\Debug\Xml_Farkli_Kayit_Ekleme(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\obj\Debug\Xml_Farkli_Kayit_Ekleme(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Xml_Farkli_Kayit_Ekleme(odev)\Xml_Farkli_Kayit_Ekleme(odev)\obj\Debug\Xml_Farkli_Kayit_Ekleme(odev).pdb

@@ -1,0 +1,9 @@
+c:\users\satellite\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\satellite\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\satellite\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\satellite\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\satellite\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\satellite\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Kapsülleme\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Kapsülleme\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Kapsülleme\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

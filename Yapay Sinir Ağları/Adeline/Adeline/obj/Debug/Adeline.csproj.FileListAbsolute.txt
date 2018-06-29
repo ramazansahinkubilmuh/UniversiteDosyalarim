@@ -1,0 +1,9 @@
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\bin\Debug\Adeline.exe.config
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\bin\Debug\Adeline.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\bin\Debug\Adeline.pdb
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\obj\Debug\Adeline.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\obj\Debug\Adeline.Form1.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\obj\Debug\Adeline.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\obj\Debug\Adeline.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\obj\Debug\Adeline.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\Adeline\Adeline\obj\Debug\Adeline.pdb

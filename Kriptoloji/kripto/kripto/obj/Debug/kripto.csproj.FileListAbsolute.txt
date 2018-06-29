@@ -1,0 +1,9 @@
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\bin\Debug\kripto.exe.config
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\bin\Debug\kripto.exe
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\bin\Debug\kripto.pdb
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\obj\Debug\kripto.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\obj\Debug\kripto.Form1.resources
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\obj\Debug\kripto.Properties.Resources.resources
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\obj\Debug\kripto.csproj.GenerateResource.Cache
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\obj\Debug\kripto.exe
+C:\Users\Ramazan\Documents\Visual Studio 2013\Projects\kripto\kripto\obj\Debug\kripto.pdb

@@ -1,0 +1,12 @@
+c:\users\satellite\documents\visual studio 2012\Projects\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\bin\Debug\Ödev(çok biçimlilik).exe.config
+c:\users\satellite\documents\visual studio 2012\Projects\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\bin\Debug\Ödev(çok biçimlilik).exe
+c:\users\satellite\documents\visual studio 2012\Projects\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\bin\Debug\Ödev(çok biçimlilik).pdb
+c:\users\satellite\documents\visual studio 2012\Projects\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\obj\Debug\Ödev(çok biçimlilik).csprojResolveAssemblyReference.cache
+c:\users\satellite\documents\visual studio 2012\Projects\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\obj\Debug\Ödev(çok biçimlilik).exe
+c:\users\satellite\documents\visual studio 2012\Projects\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\obj\Debug\Ödev(çok biçimlilik).pdb
+D:\RAMAZAN\Üniversite\Sınıflar\IV.Sınıf\Nesneye Yönelik Programlama\Ödevçok-biçimlilik\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\bin\Debug\Ödev(çok biçimlilik).exe.config
+D:\RAMAZAN\Üniversite\Sınıflar\IV.Sınıf\Nesneye Yönelik Programlama\Ödevçok-biçimlilik\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\obj\Debug\Ödev(çok biçimlilik).exe
+D:\RAMAZAN\Üniversite\Sınıflar\IV.Sınıf\Nesneye Yönelik Programlama\Ödevçok-biçimlilik\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\obj\Debug\Ödev(çok biçimlilik).pdb
+D:\RAMAZAN\Üniversite\Sınıflar\IV.Sınıf\Nesneye Yönelik Programlama\Ödevçok-biçimlilik\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\bin\Debug\Ödev(çok biçimlilik).exe
+D:\RAMAZAN\Üniversite\Sınıflar\IV.Sınıf\Nesneye Yönelik Programlama\Ödevçok-biçimlilik\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\bin\Debug\Ödev(çok biçimlilik).pdb
+D:\RAMAZAN\Üniversite\Sınıflar\IV.Sınıf\Nesneye Yönelik Programlama\Ödevçok-biçimlilik\Ödev(çok biçimlilik)\Ödev(çok biçimlilik)\obj\Debug\Ödev(çok biçimlilik).csprojResolveAssemblyReference.cache

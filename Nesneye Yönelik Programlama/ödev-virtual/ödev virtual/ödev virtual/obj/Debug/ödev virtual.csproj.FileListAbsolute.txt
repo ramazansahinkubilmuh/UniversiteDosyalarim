@@ -1,0 +1,6 @@
+c:\users\satellite\documents\visual studio 2012\Projects\ödev virtual\ödev virtual\bin\Debug\ödev virtual.exe.config
+c:\users\satellite\documents\visual studio 2012\Projects\ödev virtual\ödev virtual\bin\Debug\ödev virtual.exe
+c:\users\satellite\documents\visual studio 2012\Projects\ödev virtual\ödev virtual\bin\Debug\ödev virtual.pdb
+c:\users\satellite\documents\visual studio 2012\Projects\ödev virtual\ödev virtual\obj\Debug\ödev virtual.exe
+c:\users\satellite\documents\visual studio 2012\Projects\ödev virtual\ödev virtual\obj\Debug\ödev virtual.pdb
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\ödev virtual\ödev virtual\obj\Debug\ödev virtual.csprojResolveAssemblyReference.cache

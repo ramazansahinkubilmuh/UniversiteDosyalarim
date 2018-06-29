@@ -1,0 +1,18 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).dll.config
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).pdb
+D:\RAMAZAN\Üniversite\Sınıflar\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).dll.config
+D:\RAMAZAN\Üniversite\Sınıflar\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).dll
+D:\RAMAZAN\Üniversite\Sınıflar\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\bin\Jquery_Slayt(odev).pdb
+D:\RAMAZAN\Üniversite\Sınıflar\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).csprojResolveAssemblyReference.cache
+D:\RAMAZAN\Üniversite\Sınıflar\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).dll
+D:\RAMAZAN\Üniversite\Sınıflar\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Jquery_Slayt(odev)\Jquery_Slayt(odev)\obj\Debug\Jquery_Slayt(odev).pdb

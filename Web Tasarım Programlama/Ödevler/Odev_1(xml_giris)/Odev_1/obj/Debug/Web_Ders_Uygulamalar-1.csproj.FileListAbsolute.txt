@@ -1,0 +1,12 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\bin\Odev_1.dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\bin\Odev_1.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\bin\Odev_1.pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\obj\Debug\Web_Ders_Uygulamalar-1.csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\obj\Debug\Odev_1.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\obj\Debug\Odev_1.pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Odev_1(xml_giris)\Odev_1\bin\Odev_1.dll.config
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Odev_1(xml_giris)\Odev_1\bin\Odev_1.dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Odev_1(xml_giris)\Odev_1\bin\Odev_1.pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Odev_1(xml_giris)\Odev_1\obj\Debug\Web_Ders_Uygulamalar-1.csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Odev_1(xml_giris)\Odev_1\obj\Debug\Odev_1.dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Odev_1(xml_giris)\Odev_1\obj\Debug\Odev_1.pdb

@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<dikeymenu>
+  <menu id="1" Ad="Ana Sayfa" />
+  <menu id="2" Ad="İletişim" />
+  <menu id="4" Ad="Hakkında" />
+  <menu id="4" Ad="Resimler" />
+  <menu id="5" Ad="Yardım" />
+  <menu id="7" Ad="Duyuru" />
+  <menu id="8" Ad="Deneme" />
+</dikeymenu>

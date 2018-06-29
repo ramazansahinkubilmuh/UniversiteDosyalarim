@@ -1,0 +1,11 @@
+tahmin=sim(network1,testgiris);
+fark=testcikis-tahmin;
+mse=mse(fark);
+postreg(testcikis,tahmin);
+
+
+
+tahmin=sim(network1,egitimgiris);
+fark=egitimcikis-tahmin;
+mse=mse(fark);
+postreg(egitimcikis,tahmin);

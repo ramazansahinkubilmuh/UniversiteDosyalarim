@@ -1,0 +1,18 @@
+C:\Users\kadir\Desktop\ASP.Net Mühendislik Uygulamalar\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\kadir\Desktop\ASP.Net Mühendislik Uygulamalar\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\kadir\Desktop\ASP.Net Mühendislik Uygulamalar\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\kadir\Desktop\ASP.Net Mühendislik Uygulamalar\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\bin\CKEditor.NET.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Hafta5\WebApplication1\bin\CKFinder.dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Hafta5\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Hafta5\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Hafta5\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Hafta5\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Hafta5\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Hafta5\WebApplication1\obj\Debug\WebApplication1.pdb

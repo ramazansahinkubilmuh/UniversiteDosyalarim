@@ -1,0 +1,18 @@
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\bin\Debug\TavlaEND.exe.config
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\bin\Debug\TavlaEND.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\bin\Debug\TavlaEND.pdb
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\obj\Debug\TavlaEND.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\obj\Debug\TavlaEND.Form1.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\obj\Debug\TavlaEND.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\obj\Debug\TavlaEND.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\obj\Debug\TavlaEND.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\TavlaEND\TavlaEND\obj\Debug\TavlaEND.pdb
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\bin\Debug\TavlaEND.exe.config
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\obj\Debug\TavlaEND.exe
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\obj\Debug\TavlaEND.pdb
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\bin\Debug\TavlaEND.exe
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\bin\Debug\TavlaEND.pdb
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\obj\Debug\TavlaEND.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\obj\Debug\TavlaEND.Form1.resources
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\obj\Debug\TavlaEND.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\TavlaEND\TavlaEND\TavlaEND\obj\Debug\TavlaEND.csproj.GenerateResource.Cache

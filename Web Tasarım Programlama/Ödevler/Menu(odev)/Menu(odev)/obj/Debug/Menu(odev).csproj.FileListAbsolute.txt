@@ -1,0 +1,12 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Menu(odev)\Menu(odev)\bin\Menu(odev).dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Menu(odev)\Menu(odev)\bin\Menu(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Menu(odev)\Menu(odev)\bin\Menu(odev).pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Menu(odev)\Menu(odev)\obj\Debug\Menu(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Menu(odev)\Menu(odev)\obj\Debug\Menu(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Menu(odev)\Menu(odev)\obj\Debug\Menu(odev).pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Menu(odev)\Menu(odev)\bin\Menu(odev).dll.config
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Menu(odev)\Menu(odev)\bin\Menu(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Menu(odev)\Menu(odev)\bin\Menu(odev).pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Menu(odev)\Menu(odev)\obj\Debug\Menu(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Menu(odev)\Menu(odev)\obj\Debug\Menu(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Menu(odev)\Menu(odev)\obj\Debug\Menu(odev).pdb

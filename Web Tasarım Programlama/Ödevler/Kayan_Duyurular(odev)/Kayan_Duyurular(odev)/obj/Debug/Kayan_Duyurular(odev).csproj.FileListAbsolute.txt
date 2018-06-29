@@ -1,0 +1,18 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).dll.config
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).pdb
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).dll
+C:\Users\Rmzn_Shn\Desktop\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).pdb
+D:\RAMAZAN\Üniversite\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).dll.config
+D:\RAMAZAN\Üniversite\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).dll
+D:\RAMAZAN\Üniversite\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\bin\Kayan_Duyurular(odev).pdb
+D:\RAMAZAN\Üniversite\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).csprojResolveAssemblyReference.cache
+D:\RAMAZAN\Üniversite\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).dll
+D:\RAMAZAN\Üniversite\II.Sınıf\II.Dönem\Web Tasarım Programlama\Ödevler\Kayan_Duyurular(odev)\Kayan_Duyurular(odev)\obj\Debug\Kayan_Duyurular(odev).pdb

@@ -1,0 +1,6 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Slayt_Uygulamasi_1(odev)\Slayt_Uygulamasi_1(odev)\bin\Slayt_Uygulamasi_1(odev).dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Slayt_Uygulamasi_1(odev)\Slayt_Uygulamasi_1(odev)\bin\Slayt_Uygulamasi_1(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Slayt_Uygulamasi_1(odev)\Slayt_Uygulamasi_1(odev)\bin\Slayt_Uygulamasi_1(odev).pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Slayt_Uygulamasi_1(odev)\Slayt_Uygulamasi_1(odev)\obj\Debug\Slayt_Uygulamasi_1(odev).csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Slayt_Uygulamasi_1(odev)\Slayt_Uygulamasi_1(odev)\obj\Debug\Slayt_Uygulamasi_1(odev).dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Slayt_Uygulamasi_1(odev)\Slayt_Uygulamasi_1(odev)\obj\Debug\Slayt_Uygulamasi_1(odev).pdb

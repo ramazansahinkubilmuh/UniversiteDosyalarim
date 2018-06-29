@@ -1,0 +1,6 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\bin\Odev_1.dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\bin\Odev_1.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\bin\Odev_1.pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\obj\Debug\Odev_1.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\obj\Debug\Odev_1.pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web\Odev_1\Odev_1\obj\Debug\Odev_1.csprojResolveAssemblyReference.cache

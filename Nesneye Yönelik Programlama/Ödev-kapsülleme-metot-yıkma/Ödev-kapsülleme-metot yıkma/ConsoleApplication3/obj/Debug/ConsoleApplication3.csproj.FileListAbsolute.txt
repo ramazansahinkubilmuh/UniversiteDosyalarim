@@ -1,0 +1,14 @@
+c:\users\mmf_lab35\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\mmf_lab35\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\mmf_lab35\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\mmf_lab35\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\mmf_lab35\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\mmf_lab35\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\MMF_LAB35\Documents\Visual Studio 2013\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\MMF_LAB35\Documents\Visual Studio 2013\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\MMF_LAB35\Documents\Visual Studio 2013\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Satellite\Documents\Visual Studio 2012\Projects\Ödev-kapsülleme-metot yıkma\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
